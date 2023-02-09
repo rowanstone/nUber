@@ -3,7 +3,7 @@ A basic ride-sharing app using Google Maps API created for a TXSTATE Class proje
 
 Instructions to run program
 
-the API is hosted on https://snorlax-nuber.herokuapp.com (the base url will give no requests, please refer below to see the various endpoints)
+the API was hosted on https://snorlax-nuber.herokuapp.com but is no longer available at present. (the base url will give no requests, please refer below to see the various endpoints)
 
 As well the server can be started with the following instructions and ran on a local host under port 3000
 
